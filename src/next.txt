@@ -1,0 +1,88 @@
+Introduction:
+The dark web remains largely unindexed and inaccessible to traditional search engines. To overcome this challenge, web scraping on onion links using a REST API offers a promising solution. This project aims to explore the various use cases and implications of such an approach. By utilizing a REST API, researchers, analysts, and investigators can gather valuable data from the dark web, uncovering insights, trends, and potential threats that would otherwise remain hidden. However, it is crucial to consider legal, ethical, and technical factors when engaging in web scraping on onion links.
+
+Methodology:
+The methodology involved selecting a suitable REST API that provides authorized access to onion links. The choice of the API was based on factors such as reliability, security, and adherence to legal and ethical considerations. A robust framework was developed to extract and process data from targeted onion links. Attention was given to ensuring compliance with terms of service, privacy regulations, and data protection guidelines.
+
+Use Cases:
+This paper presents a range of use cases for web scraping on onion links. Dark web research allows for the analysis of hidden trends, monitoring of illegal activities, and identifying potential security threats. Market intelligence applications involve extracting product information, prices, reviews, and seller details from underground marketplaces. Investigative journalism can benefit from web scraping to uncover stories, expose criminal activities, and gather information for reporting. Cybersecurity professionals can leverage this approach to monitor dark web forums, discussion boards, or marketplaces, enhancing threat analysis and vulnerability assessments. Academic research can be enriched by collecting data from the dark web to study cybercrime, digital anonymity, or underground economies. Law enforcement agencies can employ web scraping to gather intelligence and evidence for criminal investigations. Additionally, web scraping on onion links enables organizations to monitor for fraud, stolen credentials, and illegal activities.
+
+
+2. Black box testing:
+Strategies for Black Box Testing Ideally, we’d like to test every possible
+thing that can be done with our program. But, as we said, writing
+and in this
+subsection. We want to avoid writing redundant test cases that won’t
+tell us anything new (becauifferent
+mode of fplest test cases that
+Department of Computer Engineering, LoGMIEER, Nashik,2022-23 52
+could nents against a software design. Software
+components may bered a better practice since it
+allows interface issun the inraction between
+integrated components (mlarger ghe arcks as a system.
+4. System testing:
+System testing, or end-to-end testing, tests a completely integrated sys-
+tem to verify that it meets its requirements. For example, a system test
+might involve testing a logon interface, then creating and editing an en-
+try, plus sending 
+5. Functional Testing:
+Functional testing is to testing the functionality of the software ap-
+plication under test.In Functional test-
+ing, we need check the each components are functioning as expected or
+not, so it is also called as “Component Testing”.it conforms with all requirements.
+Functional testing is a way of checking software to ensure that it has
+Department of Computer Engineering, LoGMIEER, Nashik,2022-23 53
+all the required functionality that’s specified within its functional re-
+quirements.
+6. Acceptance testing :
+At last the system is delivered to the user for Acceptance testing.White-
+box testing(also known as clear box testing,glass box testing,transparent
+box testing and structural testing) tests internal structures or work-
+ings of a program, as opposed to the functionality exposed to the end-
+user. In white-box testing an internal perspective of the system, as
+well as programming skills, are used to design test cases. The tester
+chooses inputs to exercise paths through the code and determine the
+appropriate outputs. This is analogous to testing nodes in a circuit,
+e.g.in-circuit testing(ICT).While white-box testing can be applied at
+the unit,integration and system levels of the software testing process,
+it is usually done at the unit level. It can test paths within a unit,
+paths between units during integration, and between subsystems dur-
+ing a system–level test. Though this method of test design can uncover
+many errors or problems, it might not detect unimplemented parts of
+the specification or missing requirements.
+7. Techniques used in white-box testing include:
+(a) API testing (application programming interface) – testing of the
+application using public and private APIs
+(b) Code coverage– creating tests to satisfy some criteria of code cov-
+erage (e.g., the test designer can create tests to cause all state-
+ments in the program to be executed at least once)
+(c) Fault injection methods – intentionally introducing faults to gauge
+the efficacy of testing strategies
+(d) Mutation testing methods
+(e) Static testing methods Code coverage tools can evaluate the com-
+pleteness of a test suite that was created with any method, includ-
+ing black-box testing. This allows the software team to examine
+parts of a system that are rarely tested and ensures that the most
+important function points have been tested.Code coverage as a
+software metriccan be reported as a percentage for:
+(f) Function coverage, which reports on functions executed
+(g) Statement coverage, which reports on the number of lines executed
+to complete the test 100
+Department of Computer Engineering, LoGMIEER, Nashik,2022-23 54
+(h) Black box diagram Black-box testing treats the software as a
+”black box”, examining functionality without any knowledge of
+internal implementation. The testers are only aware of what the
+software is supposed to do, not how it does it.Black-box testing
+methods include:equivalence partitioning,boundary value analysis,all-
+pairs testing,state transition tables,decision table testing, fuzz testing,model-
+based testing,use case testing,exploratory testing and specification-
+based testing.
+One advantage of the black box technique is that no programming
+knowledge is required. Whatever biases the programmers may
+have had, the tester likely has a different set and may emphasize
+different areas of functionality. On the other hand, black-box test-
+ing has been said to be ”like a walk in a dark labyrinth without
+a flashlight. Because they do not examine the source code, there
+are situations when a tester writes many test cases to check some-
+thing that could have been tested by only one test case, or leaves
+some parts of the program untested.
